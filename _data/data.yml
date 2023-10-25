@@ -4,19 +4,19 @@ sidebar:
     education: True # set to False if you want education in main section instead of in sidebar
 
     # Profile information
-    name: Jonathan "Jinn" Young
-    tagline: Designer and Bartender
+    name: Jonathan Young 
+    tagline: IT Professional
     avatar: Profile(100x100).jpg #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
     email: jyoung0696@gmail.com
-    phone: 626 662 0656
+    phone: 626 626 0656
     timezone: Pacific Time
     citizenship: US
-    website: jonathanyoungdesign.wordpress.com #do not add http://
+    website: CypherPhonk.github.io/cv-it #do not add http://
     linkedin: 
     xing: 
-    github: iterating
+    github: CypherPhonk
     telegram: # add your nickname without '@' sign
     gitlab:
     bitbucket:
@@ -29,18 +29,16 @@ sidebar:
     languages:
       title: Languages
       info:
-        - idiom: English
-          level: Native
-
-        - idiom: Chinese
-          level: Professional
+      - idiom: English
+        level: Native
+      - idiom: Chinese
+        level: Professional
 
     interests:
       title: Interests
       info:
         - item: Photography
-          link:
-
+          link: https://github.com/CypherPhonk/cv-it.git
         - item: Fitness
           link:
 
@@ -69,56 +67,24 @@ experiences:
     title: Experiences
     info:
 
-      - role: Gogo dancer
-        time: 2023
-        company: Chico's, Montebello CA
-        details: |
-
-      - role: Bartender
-        time: 2023
-        company: Los Angeles CA
-        details: |
-          Running mobile full service bar to serve adn entertain guests at anime convention afterparties.  
-          - Served 200 guests at Anime Expo Westin deck afterparty, one of the largest and well known anime convention afterparties in the US. 
-          - Designed and stocked themed drink menu. Directed barback to assist with busy bar. Closed bar and cleaned up party area afterwards. 
-
-      - role: Bartender
-        time: 2015
-        company: Baba Sushi, Worcester MA
-        details: |
-          Alcohol Server License 313380293
-
-      - role: Barback
-        time: 2014-2015
-        company: Baba Sushi, Worcester MA
-        details: |
-          - Ensuring bar is well-stocked with ice, liquor, wine, and beer.
-          - Assisting with opening and closing duties, such as restocking the bar with garnishes, straws, and napkins, ensuring that Bartenders have clean towels, glassware, etc.
-          - Checking taps and appliances to confirm that they are working properly, making minor repairs, or changing out kegs, if needed.
-          - Keeping the bar clean by wiping down surfaces, sweeping and mopping, removing soiled glassware, scrubbing coolers and storage areas, and emptying trash receptacles.
-          - Taking orders, preparing drinks, bussing tables, opening tabs, and processing payments during peak hours.
-
-      - role: Designer
+      - role: Principal
         time: 2020 - Present
         company: Young Design
         details: |
           Coding design mockups into cross-browser compatible, search engine friendly websites via HTML, javascript, PHP, MySQL or fully themed WordPress sites.
           - Planning site design, functionality, and navigation
-          - Handling composition, color, illustration, typography, and branding for projects
-          - Improved client siteranks through SEO and descriptive copywriting
           - Creating high quality 3D models and renders of client products
           - Making existing client websites responsive
 
-      - role: UX Design, Software testing and quality assurance
+      - role: Software testing and quality assurance
         time: 2020 - 2023
         company: Dendron, Seattle WA
         details: |
           Dendron is a next generation full featured notetaking system built on top of Visual Studio Code  
           - Analyze user needs and use cases from online community.
-          - Design intuitive UIs and created mockups for engineering team.
           - Test software as a power user and with edge cases. Collect feedback and bug reports for user community document them, and report them as actionable tickets. 
 
-      - role: UI Developer
+      - role: Technology Associate
         time: 2016 - 2018
         company: VecnaCares, Boston MA
         details: |
@@ -137,13 +103,12 @@ experiences:
           - Maintained photography and videography equipment
           - Provided support to staff and students on technology use and troubleshooting
 
-      - role: Unit Designer and 3D Design Lead
+      - role: Developer
         time: 2011 - 2014, part time
         company: Command and Conquer Generals End of Days Mod
         details: |
           End of Days is an expansion pack game mod for the popular RTS game Command And Conquer Generals. 
           - Created 3D game assets and animations
-          - Plan layouts in Photoshop
           - Balanced game mechanics to promote engaging multiplayer play
           - Communicate goals and across remote based team
           - Realize solutions to fix bugs and problems within the implemented systems
@@ -152,29 +117,22 @@ skills:
     title: Skills
 
     toolset:
-      - name: Figma
-
-      - name: Blender & 3D Max
-
       - name: HTML5 & CSS
 
       - name: Git/Github
 
       - name: SQL
 
-      - name: Sketch & Photoshop
+      - name: Networking- Cisco
 
-      - name: Virtualbox & VMWare
+      - name: Virtualization- Virtualbox, VMWare, Docker 
 
       - name: Linux/Apache/MySQL/PHP
 
       - name: Red Hat System Administration
               170-077-016
 
-      - name: RBS Alcohol Server 
-              313380293
-
 
 
 footer: >
-    Designed with <i class="fas fa-heart"></i> by <a href="http://jonathanyoungdesign.wordpress.com" target="_blank" rel="nofollow">Jonathan Young Design</a>
+    Designed with <i class="fas fa-heart"></i> by <a href="http://jonathanyoungdesign.wordpress.com" target="_blank" rel="nofollow">J Young Design</a>
