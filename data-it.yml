@@ -1,0 +1,138 @@
+
+sidebar:
+    about: True # set to False or comment line if you want to remove the "how to use?" in the sidebar
+    education: True # set to False if you want education in main section instead of in sidebar
+
+    # Profile information
+    name: Jonathan Young 
+    tagline: IT Professional
+    avatar: Profile(100x100).jpg #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
+
+    # Sidebar links
+    email: jyoung0696@gmail.com
+    phone: 626 626 0656
+    timezone: Pacific Time
+    citizenship: US
+    website: CypherPhonk.github.io/cv-it #do not add http://
+    linkedin: 
+    xing: 
+    github: CypherPhonk
+    telegram: # add your nickname without '@' sign
+    gitlab:
+    bitbucket:
+    twitter: 
+    stack-overflow: # Number/Username, e.g. 123456/alandoe
+    codewars:
+    goodreads: # Number-Username, e.g. 123456-alandoe
+    pdf: 
+
+    languages:
+      title: Languages
+      info:
+      - idiom: English
+        level: Native
+      - idiom: Chinese
+        level: Professional
+
+    interests:
+      title: Interests
+      info:
+        - item: Photography
+          link: https://github.com/CypherPhonk/cv-it.git
+        - item: Fitness
+          link:
+
+        - item: Cooking
+          link:
+
+# career-profile:
+#   title: Career Profile
+#   summary: |
+      
+education:
+    title: Education
+    info:
+      - degree: Tufts University
+        university: B.Sc., Biology and Chemistry
+        time: 2007 - 2010
+        details: |
+           Magna cum laude with Thesis Honors
+           Capstone project in 3D design
+      - degree: UMass Chan Medical School
+        university: Medicine
+        time: 2015 - 2019
+        details: |
+           Winner, American College of Physicians National Abstract Competition
+experiences:
+    title: Experiences
+    info:
+
+      - role: Principal
+        time: 2020 - Present
+        company: Young Design
+        details: |
+          Coding design mockups into cross-browser compatible, search engine friendly websites via HTML, javascript, PHP, MySQL or fully themed WordPress sites.
+          - Planning site design, functionality, and navigation
+          - Creating high quality 3D models and renders of client products
+          - Making existing client websites responsive
+
+      - role: Software testing and quality assurance
+        time: 2020 - 2023
+        company: Dendron, Seattle WA
+        details: |
+          Dendron is a next generation full featured notetaking system built on top of Visual Studio Code  
+          - Analyze user needs and use cases from online community.
+          - Test software as a power user and with edge cases. Collect feedback and bug reports for user community document them, and report them as actionable tickets. 
+
+      - role: Technology Associate
+        time: 2016 - 2018
+        company: VecnaCares, Boston MA
+        details: |
+          Worked with healthcare providers to translate clinical workflow into a seamless UI for electronic medical record collection. 
+          - Design UI mockups for engineering team. Work with team in producing front-end. 
+          - Usability testing. Teach and recieve feedback on product from clinical end-users
+          - Maintain and administer Linux system laptop and tablets for clinical use
+        
+      - role: Technology administrator
+        time: 2012 - 2014
+        company: Tufts University Eliot-Pearson Children's School, Medford MA
+        details: |
+          Administered computer and technology equipment at Eliot-Pearson Children's School
+          - Maintained computer and network security
+          - Deployed and updated software at computer lab
+          - Maintained photography and videography equipment
+          - Provided support to staff and students on technology use and troubleshooting
+
+      - role: Developer
+        time: 2011 - 2014, part time
+        company: Command and Conquer Generals End of Days Mod
+        details: |
+          End of Days is an expansion pack game mod for the popular RTS game Command And Conquer Generals. 
+          - Created 3D game assets and animations
+          - Balanced game mechanics to promote engaging multiplayer play
+          - Communicate goals and across remote based team
+          - Realize solutions to fix bugs and problems within the implemented systems
+  
+skills:
+    title: Skills
+
+    toolset:
+      - name: HTML5 & CSS
+
+      - name: Git/Github
+
+      - name: SQL
+
+      - name: Networking- Cisco
+
+      - name: Virtualization- Virtualbox, VMWare, Docker 
+
+      - name: Linux/Apache/MySQL/PHP
+
+      - name: Red Hat System Administration
+              170-077-016
+
+
+
+footer: >
+    Designed with <i class="fas fa-heart"></i> by <a href="http://jonathanyoungdesign.wordpress.com" target="_blank" rel="nofollow">J Young Design</a>
